@@ -2810,7 +2810,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "046d0e38-066d-4e30-a4bb-e9ece1ad0069")
-		(property "Reference" "R5"
+		(property "Reference" "R?"
 			(at 86.614 40.894 90)
 			(effects
 				(font
@@ -2866,6 +2866,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2877,7 +2883,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ab08862-6641-4034-b6b1-1d0adea4ee68")
-		(property "Reference" "R33"
+		(property "Reference" "R?"
 			(at 86.614 148.844 90)
 			(effects
 				(font
@@ -2933,6 +2939,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2944,7 +2956,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0d408d4d-ba99-4588-be9c-e14efeee690d")
-		(property "Reference" "R34"
+		(property "Reference" "R?"
 			(at 86.614 151.384 90)
 			(effects
 				(font
@@ -3000,6 +3012,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3012,7 +3030,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15b0746b-b449-4a6c-97d9-08fb8281b900")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR?"
 			(at 95.25 60.96 0)
 			(effects
 				(font
@@ -3066,6 +3084,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3079,7 +3103,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16a6ce78-6492-4a00-84df-5447a2fe5818")
-		(property "Reference" "U3"
+		(property "Reference" "U?"
 			(at 152.7967 24.13 0)
 			(effects
 				(font
@@ -3179,6 +3203,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3191,7 +3221,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a650753-55ab-43df-913e-e1dbe7ca471b")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR?"
 			(at 154.94 115.57 0)
 			(effects
 				(font
@@ -3245,6 +3275,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3256,7 +3292,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1e7c7080-5fbf-436a-ae87-d342ece8ef95")
-		(property "Reference" "R35"
+		(property "Reference" "R?"
 			(at 86.614 153.924 90)
 			(effects
 				(font
@@ -3312,6 +3348,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3324,7 +3366,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1ed01d8a-7e18-4789-9804-cc5642684c97")
-		(property "Reference" "R11"
+		(property "Reference" "R?"
 			(at 139.446 38.354 90)
 			(effects
 				(font
@@ -3380,6 +3422,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3392,7 +3440,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "21265666-e973-4849-b194-8d75c584fa0e")
-		(property "Reference" "R12"
+		(property "Reference" "R?"
 			(at 139.446 40.894 90)
 			(effects
 				(font
@@ -3448,6 +3496,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3459,7 +3513,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2592e0b4-d030-417b-8354-e357cba5f95c")
-		(property "Reference" "R17"
+		(property "Reference" "R?"
 			(at 86.614 89.154 90)
 			(effects
 				(font
@@ -3515,6 +3569,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3526,7 +3586,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "316c3b5d-fcf1-4c11-bb49-ab6d7b6ef45e")
-		(property "Reference" "R6"
+		(property "Reference" "R?"
 			(at 86.614 43.434 90)
 			(effects
 				(font
@@ -3582,6 +3642,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3593,7 +3659,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35d52d7a-54ea-466b-b0f4-45e107211fdc")
-		(property "Reference" "R29"
+		(property "Reference" "R?"
 			(at 86.614 138.684 90)
 			(effects
 				(font
@@ -3649,6 +3715,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3661,7 +3733,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "39f894bb-18aa-49d3-b8e4-c374cbf219c5")
-		(property "Reference" "R40"
+		(property "Reference" "R?"
 			(at 139.446 148.844 90)
 			(effects
 				(font
@@ -3717,6 +3789,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3729,7 +3807,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4806057c-8ce6-4835-ac31-350dea6197c6")
-		(property "Reference" "R13"
+		(property "Reference" "R?"
 			(at 139.446 43.434 90)
 			(effects
 				(font
@@ -3785,6 +3863,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3797,7 +3881,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59b8ebc8-7a39-4cfa-8c04-f76c509d49ba")
-		(property "Reference" "R27"
+		(property "Reference" "R?"
 			(at 139.446 96.774 90)
 			(effects
 				(font
@@ -3853,6 +3937,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3865,7 +3955,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5ae107da-c976-44c9-9b28-57b79dd21ba6")
-		(property "Reference" "R36"
+		(property "Reference" "R?"
 			(at 139.446 138.684 90)
 			(effects
 				(font
@@ -3921,6 +4011,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3932,7 +4028,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5be61414-56bf-41b8-9fcb-e132de1df166")
-		(property "Reference" "R20"
+		(property "Reference" "R?"
 			(at 86.614 96.774 90)
 			(effects
 				(font
@@ -3988,6 +4084,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4000,7 +4102,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c2c3e12-1dca-4f68-8c56-e36ca3267f61")
-		(property "Reference" "R42"
+		(property "Reference" "R?"
 			(at 139.446 153.924 90)
 			(effects
 				(font
@@ -4056,6 +4158,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4068,7 +4176,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "615d1249-8e9d-4e58-9fed-586a702d6c9a")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR?"
 			(at 154.94 134.62 0)
 			(effects
 				(font
@@ -4122,6 +4230,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4134,7 +4248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "645264a4-6750-4030-9960-b236f8526e71")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR?"
 			(at 95.25 114.3 0)
 			(effects
 				(font
@@ -4188,6 +4302,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4199,7 +4319,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "72f3d080-d9d5-4f3f-bca1-94c2f4cdf38d")
-		(property "Reference" "R30"
+		(property "Reference" "R?"
 			(at 86.614 141.224 90)
 			(effects
 				(font
@@ -4255,6 +4375,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4267,7 +4393,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7656f063-693a-405a-a876-064c2b98fa20")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR?"
 			(at 95.25 168.91 0)
 			(effects
 				(font
@@ -4321,6 +4447,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4333,7 +4465,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "796ceaed-096d-4b32-b354-71ea80e522db")
-		(property "Reference" "R41"
+		(property "Reference" "R?"
 			(at 139.446 151.384 90)
 			(effects
 				(font
@@ -4389,6 +4521,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4400,7 +4538,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7f8daf58-b505-4cbe-8773-9fd8b45f7f33")
-		(property "Reference" "R4"
+		(property "Reference" "R?"
 			(at 86.614 38.354 90)
 			(effects
 				(font
@@ -4456,6 +4594,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4467,7 +4611,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7fbc8676-3526-4611-b23f-98fffcc34f51")
-		(property "Reference" "R15"
+		(property "Reference" "R?"
 			(at 86.614 84.074 90)
 			(effects
 				(font
@@ -4523,6 +4667,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4535,7 +4685,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87b23c98-4d2e-445c-9ff5-227cfcaf7c0e")
-		(property "Reference" "U8"
+		(property "Reference" "U?"
 			(at 113.03 132.08 0)
 			(effects
 				(font
@@ -4639,6 +4789,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4651,7 +4807,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88a5d151-dbc0-4ca5-bf32-7947d7c56a17")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR?"
 			(at 154.94 170.18 0)
 			(effects
 				(font
@@ -4705,6 +4861,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4717,7 +4879,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c70bc66-28c4-4efb-bf66-db2256a76e9e")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR?"
 			(at 72.39 80.01 0)
 			(effects
 				(font
@@ -4771,6 +4933,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4783,7 +4951,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8e6e1cec-7ae3-46b4-948c-115460ada464")
-		(property "Reference" "R39"
+		(property "Reference" "R?"
 			(at 139.446 146.304 90)
 			(effects
 				(font
@@ -4839,6 +5007,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4851,7 +5025,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f2c0f5d-2803-4dc6-a246-57158513ce26")
-		(property "Reference" "U4"
+		(property "Reference" "U?"
 			(at 74.5333 77.47 0)
 			(effects
 				(font
@@ -4951,6 +5125,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4963,7 +5143,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9060f0cc-c4b5-40be-9854-2ef3fd4427b6")
-		(property "Reference" "R37"
+		(property "Reference" "R?"
 			(at 139.446 141.224 90)
 			(effects
 				(font
@@ -5019,6 +5199,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5030,7 +5216,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "97cf43f5-ce53-45e3-8663-37b644645cf8")
-		(property "Reference" "R31"
+		(property "Reference" "R?"
 			(at 86.614 143.764 90)
 			(effects
 				(font
@@ -5086,6 +5272,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5098,7 +5290,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9b760f3a-753c-490a-9184-fa810b57c2bc")
-		(property "Reference" "R8"
+		(property "Reference" "R?"
 			(at 139.446 30.734 90)
 			(effects
 				(font
@@ -5154,6 +5346,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5165,7 +5363,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9d5c6b63-b39c-4c84-87d7-e2b076a6b181")
-		(property "Reference" "R16"
+		(property "Reference" "R?"
 			(at 86.614 86.614 90)
 			(effects
 				(font
@@ -5221,6 +5419,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5233,7 +5437,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a38df710-01e4-420f-bfb9-02b3f2490a98")
-		(property "Reference" "U2"
+		(property "Reference" "U?"
 			(at 74.5333 24.13 0)
 			(effects
 				(font
@@ -5333,6 +5537,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5345,7 +5555,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad864eea-da6a-4c55-9d4f-7a694b196dc8")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR?"
 			(at 72.39 115.57 0)
 			(effects
 				(font
@@ -5399,6 +5609,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5411,7 +5627,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af0b3070-697b-4631-8d5d-1925b3642eb8")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR?"
 			(at 154.94 80.01 0)
 			(effects
 				(font
@@ -5465,6 +5681,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5478,7 +5700,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af4ecf54-4030-40e3-97a4-6a2378b4b861")
-		(property "Reference" "U6"
+		(property "Reference" "U?"
 			(at 152.7967 77.47 0)
 			(effects
 				(font
@@ -5578,6 +5800,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5590,7 +5818,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b09a8cf7-129a-4477-bb40-5029c61cbde6")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR?"
 			(at 154.94 26.67 0)
 			(effects
 				(font
@@ -5644,6 +5872,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5656,7 +5890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3c67ca5-cc82-4e28-9ce1-a54587466ce0")
-		(property "Reference" "U1"
+		(property "Reference" "U?"
 			(at 113.03 24.13 0)
 			(effects
 				(font
@@ -5760,6 +5994,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5772,7 +6012,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b7f51dfd-c14c-4647-8640-b05324444503")
-		(property "Reference" "R25"
+		(property "Reference" "R?"
 			(at 139.446 91.694 90)
 			(effects
 				(font
@@ -5828,6 +6068,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5840,7 +6086,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "baa2d444-27dd-413e-bb08-681c14fcbfe5")
-		(property "Reference" "R14"
+		(property "Reference" "R?"
 			(at 139.446 45.974 90)
 			(effects
 				(font
@@ -5896,6 +6142,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5908,7 +6160,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bcb6d4a7-88c3-44e7-94fd-a33fa07b98e4")
-		(property "Reference" "R26"
+		(property "Reference" "R?"
 			(at 139.446 94.234 90)
 			(effects
 				(font
@@ -5964,6 +6216,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5975,7 +6233,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bdafe177-1a36-484c-b755-5b01d12a7926")
-		(property "Reference" "R19"
+		(property "Reference" "R?"
 			(at 86.614 94.234 90)
 			(effects
 				(font
@@ -6031,6 +6289,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6042,7 +6306,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c00f6641-fbda-4fd2-bae3-5b9e8aa818ae")
-		(property "Reference" "R21"
+		(property "Reference" "R?"
 			(at 86.614 99.314 90)
 			(effects
 				(font
@@ -6098,6 +6362,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6110,7 +6380,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c6d9c704-a8f8-4351-94c9-58639b2145ef")
-		(property "Reference" "R28"
+		(property "Reference" "R?"
 			(at 139.446 99.314 90)
 			(effects
 				(font
@@ -6166,6 +6436,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6178,7 +6454,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8b197c0-dc5a-44ee-81c7-ef41acff9d1f")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR?"
 			(at 72.39 170.18 0)
 			(effects
 				(font
@@ -6232,6 +6508,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6243,7 +6525,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ca9a55cf-89fa-4d41-b9ee-e684841f6fd9")
-		(property "Reference" "R1"
+		(property "Reference" "R?"
 			(at 86.614 30.734 90)
 			(effects
 				(font
@@ -6299,6 +6581,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6310,7 +6598,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cd3b20e4-c421-44e7-8b44-5856732c779d")
-		(property "Reference" "R18"
+		(property "Reference" "R?"
 			(at 86.614 91.694 90)
 			(effects
 				(font
@@ -6366,6 +6654,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6378,7 +6672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d14c5935-2914-420b-bec1-2b74bb4baa28")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR?"
 			(at 72.39 26.67 0)
 			(effects
 				(font
@@ -6432,6 +6726,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6445,7 +6745,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d382195d-212e-4d22-acaf-c26e3f6b26b4")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR?"
 			(at 130.81 168.91 0)
 			(effects
 				(font
@@ -6499,6 +6799,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6511,7 +6817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6c24df4-aba0-48ee-8d03-f95907e17a12")
-		(property "Reference" "U5"
+		(property "Reference" "U?"
 			(at 113.03 77.47 0)
 			(effects
 				(font
@@ -6615,6 +6921,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6627,7 +6939,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d879f158-7c3d-45a8-beb8-41b6ba8c1ed9")
-		(property "Reference" "R10"
+		(property "Reference" "R?"
 			(at 139.446 35.814 90)
 			(effects
 				(font
@@ -6683,6 +6995,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6695,7 +7013,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dcfa2968-c992-4872-9eef-304befc8e6b2")
-		(property "Reference" "R9"
+		(property "Reference" "R?"
 			(at 139.446 33.274 90)
 			(effects
 				(font
@@ -6751,6 +7069,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6763,7 +7087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de798131-c283-4c6e-98f8-1b8f1779dbd9")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR?"
 			(at 72.39 134.62 0)
 			(effects
 				(font
@@ -6817,6 +7141,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6830,7 +7160,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e003adef-8d13-45d0-a471-42711ccc33c8")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR?"
 			(at 130.81 60.96 0)
 			(effects
 				(font
@@ -6884,6 +7214,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6895,7 +7231,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e058210c-ad7d-418a-9fee-8153b40a35f5")
-		(property "Reference" "R7"
+		(property "Reference" "R?"
 			(at 86.614 45.974 90)
 			(effects
 				(font
@@ -6951,6 +7287,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6963,7 +7305,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e0b124b3-6de1-49d2-962c-212c2e64f098")
-		(property "Reference" "R22"
+		(property "Reference" "R?"
 			(at 139.446 84.074 90)
 			(effects
 				(font
@@ -7019,6 +7361,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7032,7 +7380,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1cf8be6-c994-439b-a008-4dffec761991")
-		(property "Reference" "U9"
+		(property "Reference" "U?"
 			(at 152.7967 132.08 0)
 			(effects
 				(font
@@ -7132,6 +7480,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7143,7 +7497,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e33afdb1-b4d9-450c-b416-4f61968d9588")
-		(property "Reference" "R32"
+		(property "Reference" "R?"
 			(at 86.614 146.304 90)
 			(effects
 				(font
@@ -7199,6 +7553,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7212,7 +7572,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6677256-7e28-4499-b67f-2752a1cdcc78")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR?"
 			(at 130.81 114.3 0)
 			(effects
 				(font
@@ -7266,6 +7626,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7277,7 +7643,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e84620c1-2369-40e6-9d7a-bb6ea7f0e8a6")
-		(property "Reference" "R2"
+		(property "Reference" "R?"
 			(at 86.614 33.274 90)
 			(effects
 				(font
@@ -7333,6 +7699,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7344,7 +7716,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ea2d3a0b-b96b-4f7d-97e2-7600bbe97b44")
-		(property "Reference" "R3"
+		(property "Reference" "R?"
 			(at 86.614 35.814 90)
 			(effects
 				(font
@@ -7400,6 +7772,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7412,7 +7790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eac88da2-38b2-4c71-9e82-36f24e6e7186")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR?"
 			(at 154.94 62.23 0)
 			(effects
 				(font
@@ -7466,6 +7844,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7478,7 +7862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb01e782-7718-4738-9d52-1b44abfdd037")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR?"
 			(at 72.39 62.23 0)
 			(effects
 				(font
@@ -7532,6 +7916,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7544,7 +7934,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f187b23f-81c7-4129-a3e9-961ca0f56227")
-		(property "Reference" "R38"
+		(property "Reference" "R?"
 			(at 139.446 143.764 90)
 			(effects
 				(font
@@ -7600,6 +7990,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7612,7 +8008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd64e114-dd12-4451-ab82-bac64fab0c96")
-		(property "Reference" "U7"
+		(property "Reference" "U?"
 			(at 74.5333 132.08 0)
 			(effects
 				(font
@@ -7712,6 +8108,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7724,7 +8126,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fda53cd3-ac4c-409c-9811-e2e023d2a729")
-		(property "Reference" "R24"
+		(property "Reference" "R?"
 			(at 139.446 89.154 90)
 			(effects
 				(font
@@ -7780,6 +8182,12 @@
 					(unit 1)
 				)
 			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7792,7 +8200,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ff04757e-2352-4146-86c3-ebbaa43e403d")
-		(property "Reference" "R23"
+		(property "Reference" "R?"
 			(at 139.446 86.614 90)
 			(effects
 				(font
@@ -7845,6 +8253,12 @@
 			(project "7Seg_6Digits"
 				(path "/5bd54fe5-76b9-4a9f-b669-c9b700fe6cae/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
 					(reference "R23")
+					(unit 1)
+				)
+			)
+			(project "Digital_Clock_6_Digits"
+				(path "/79d96a8f-9c80-4f83-a25e-7a8fff40baf7/237a212b-f9ce-4ec4-8760-74ac913d696e/f4c0fe6a-5aa6-409b-90e6-aa0165a20525"
+					(reference "R?")
 					(unit 1)
 				)
 			)

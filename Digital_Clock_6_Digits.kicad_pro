@@ -427,6 +427,18 @@
     [
       "237a212b-f9ce-4ec4-8760-74ac913d696e",
       "7Seg_6Digits"
+    ],
+    [
+      "ea61ede9-7527-49da-a343-8063cfa57af6",
+      "Controller"
+    ],
+    [
+      "f4c0fe6a-5aa6-409b-90e6-aa0165a20525",
+      "Seven_Segment_View"
+    ],
+    [
+      "4e052793-2ff8-4f97-9964-b86eae475438",
+      "Counter"
     ]
   ],
   "text_variables": {}
