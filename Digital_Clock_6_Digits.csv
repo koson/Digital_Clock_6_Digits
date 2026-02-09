@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R23,R3,R13,R38,R33,R34,R42,R28,R18,R31,R29,R30,R17,R1,R5,R12,R4,R37,R35,R6,R21,R22,R7,R15,R25,R24,R2,R26,R14,R8,R32,R19,R36,R39,R41,R9,R27,R20,R10,R40,R11,R16";"R_0603_1608Metric";42;"220";;;
+2;"J5,J6,J3,J4,J2,J1";"PinHeader_1x04_P2.54mm_Vertical";6;"Conn_01x04";;;
+3;"U2,U10,U3,U9,U8,U4";"DIP-16_W7.62mm_Socket_LongPads";6;"4543";;;
+4;"U6,U5,U7";"DA56-11CGKWA";3;"DA56-11SURKWA";;;
