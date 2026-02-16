@@ -31,3 +31,8 @@ $$t_L = 0.693 \times 6.8k \times 100\mu F = 471.2 \text{ ms}$$
 Check: 
 $$t_H + t_L = 540.5 + 471.2 = 1011.7 \text{ms}  ≈ 1.01 s $$
 #### **Result:** Acceptable. (within ±5%)
+
+test % sign
+
+$\%$
+$$\\\%$$
