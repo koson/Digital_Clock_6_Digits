@@ -10,7 +10,7 @@ $f = \frac{1.44}{(1k + 2 \times 6.8k) \times 100\mu F} = \frac{1.44}{14.6k \time
 
 ### Error calculation: 
 
-$\frac{|1.0 - 0.986|}{1.0} \times 100\% = 1.4\%$
+$\frac{|1.0 - 0.986|}{1.0} \times 100\\% = 1.4\\%$
 
 
 #### **Result:** Acceptable for educational purposes. (within ±5%) 
