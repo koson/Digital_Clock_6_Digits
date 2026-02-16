@@ -5,7 +5,7 @@ Circuit diagram for a 555 timer in astable mode, which can be used as a clock ge
 ![alt text](image.png)
 
 
-## Frequency calculayion:
+## Frequency calculation:
 $$f = \frac{1.44}{(1k + 2 \times 6.8k) \times 100\mu F} = \frac{1.44}{14.6k \times 100\mu F} = \frac{1.44}{1.46} = 0.986 \text{ Hz}$$
 
 ### Error calculation: 
