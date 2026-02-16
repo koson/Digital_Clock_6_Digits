@@ -6,17 +6,17 @@ Circuit diagram for a 555 timer in astable mode, which can be used as a clock ge
 
 
 ## Frequency calculation:
-$f = \frac{1.44}{(1k + 2 \times 6.8k) \times 100\mu F} = \frac{1.44}{14.6k \times 100\mu F} = \frac{1.44}{1.46} = 0.986 \text{ Hz}$
+$$f = \frac{1.44}{(1k + 2 \times 6.8k) \times 100\mu F} = \frac{1.44}{14.6k \times 100\mu F} = \frac{1.44}{1.46} = 0.986 \text{ Hz}$$
 
 ### Error calculation: 
 
-$\frac{|1.0 - 0.986|}{1.0} \times 100\\% = 1.4\\%$
+$$\frac{|1.0 - 0.986|}{1.0} \times 100\\% = 1.4\\%$$
 
 
 #### **Result:** Acceptable for educational purposes. (within ±5%) 
 
 ## Duty Cycle calculation:
-$$D = \frac{1k + 6.8k}{1k + 2 \times 6.8k}\times 100\\% = \frac{7.8k}{14.6k} \times 100\% = 53.4\\%$$
+$$D = \frac{1k + 6.8k}{1k + 2 \times 6.8k}\times 100\\% = \frac{7.8k}{14.6k} \times 100\\% = 53.4\\%$$
 
 #### **Result:** Okay. (within 40-60%)
 
