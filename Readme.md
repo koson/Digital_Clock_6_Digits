@@ -428,14 +428,14 @@ flowchart TD
 ## วงจรที่ประกอบสำเร็จแล้ว
 
 <p align="center">
-<img src="./Images/20260217_235742.jpg" alt="Completed Circuit 1" width="600">
+<img src="./Documents/Images/20260217_235742.jpg" alt="Completed Circuit 1" width="600">
 </p>
 
 <p align="center">
-<img src="./Images/20260217_235716.jpg" alt="Completed Circuit 2" width="600">
+<img src="./Documents/Images/20260217_235716.jpg" alt="Completed Circuit 2" width="600">
 </p>
 
 <p align="center">
-<img src="./Images/20260217_235725.jpg" alt="Completed Circuit 3" width="600">
+<img src="./Documents/Images/20260217_235725.jpg" alt="Completed Circuit 3" width="600">
 </p>
 
