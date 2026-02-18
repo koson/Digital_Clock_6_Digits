@@ -12,5 +12,11 @@
 
 
 <p align="center">
-<img src="Images/counter-Controller-Placement.jpg" alt="Counter Controller Placement" width="500" >
+<img src="Images/controller-circuit-Front-View.jpg" alt="Controller Circuit Front View" width="500" >
 </p>
+
+
+<p align="center">
+<img src="Images/controller-circuit-Rear-View.jpg" alt="Controller Circuit Rear View" width="500" >
+</p>
+
