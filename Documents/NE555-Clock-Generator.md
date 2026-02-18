@@ -2,7 +2,7 @@
 
 Circuit diagram for a 555 timer in astable mode, which can be used as a clock generator. The frequency of the clock can be adjusted by changing the values of the resistors and capacitor connected to the timer.
 
-![alt text](image.png)
+![alt text](Timer-1Hz.png)
 
 
 ## Frequency calculation:

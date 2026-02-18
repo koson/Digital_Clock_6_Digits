@@ -5,4 +5,5 @@
 2. ติดตั้งตามขั้นตอนปกติ
 3. เปิดไฟล์ Digital_Clock_6_Digits.kicad_pro จากโฟลเดอร์ circuit  ใน repo นี้
 
-![](Images/Kicad-open-project.jpg.png) 
+
+![Kicad Project](Kicad-project.png)
