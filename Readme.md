@@ -418,7 +418,7 @@ flowchart TD
 - [Bill of Materials](./Documents/Bill-of-materials.md) - รายการอุปกรณ์
 - [Construction Process](./Documents/Construction-Process-Display.md) - ขั้นตอนการประกอบ
 - [Datasheets](./Documents/Datasheets.md) - ข้อมูล IC ที่ใช้
-- [NE555 Clock Calculation](./Documents/Progression/NE555_Clock.md) - การคำนวณวงจร Clock
+- [NE555 Clock Calculation](./Documents/NE555-Clock-Generator.md) - การคำนวณวงจร Clock
 
 ---
 
