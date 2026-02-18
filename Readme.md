@@ -20,9 +20,9 @@
 
 ## 📐 สถาปัตยกรรม Hardware แบบ MVC (Model-View-Controller)
 
-
-![alt text](./Documents/Images/MVC-Architecture.png)
-
+<p align="center">
+<img src="./Documents/Images/MVC-Architecture.png" alt="MVC Architecture" >
+</p>
 โปรเจคนี้ออกแบบโดยแบ่งส่วนการทำงานออกเป็น 3 ส่วนหลักตามแนวคิด MVC:
 
 ### 🎮 **Controller** - ส่วนควบคุมและสร้างสัญญาณ Clock
@@ -425,15 +425,17 @@ flowchart TD
 
 ---
 
-
-
-
-
 ## วงจรที่ประกอบสำเร็จแล้ว
 
-![](./Images/20260217_235742.jpg)
+<p align="center">
+<img src="./Images/20260217_235742.jpg" alt="Completed Circuit 1" width="600">
+</p>
 
-![](./Images/20260217_235716.jpg)
+<p align="center">
+<img src="./Images/20260217_235716.jpg" alt="Completed Circuit 2" width="600">
+</p>
 
-![](./Images/20260217_235725.jpg)
+<p align="center">
+<img src="./Images/20260217_235725.jpg" alt="Completed Circuit 3" width="600">
+</p>
 
