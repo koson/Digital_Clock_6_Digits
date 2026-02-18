@@ -282,13 +282,14 @@
   },
   "active": "e140e60dcb2db34a",
   "lastOpenFiles": [
+    "Progression/NE555_Clock.md",
+    "Documents/Clock-Generator-NE555.md",
+    "Readme.md",
     "Documents/Push-button-Debouncing.md",
     "Documents/Kicad-Setup.md",
     "Documents/Datasheet.md",
     "Documents/Construction-Process.md",
-    "Documents/Clock-Generator-NE555.md",
     "Documents/Bill-of-materials.md",
-    "Readme.md",
     "Documents"
   ]
 }
