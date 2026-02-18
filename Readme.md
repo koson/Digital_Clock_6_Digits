@@ -97,6 +97,7 @@
 - **[`Construction-Process.md`](Documents/Construction-Process.md)** - ขั้นตอนการประกอบวงจรตามลำดับ
 - **[`Datasheets.md`](Documents/Datasheets.md)** - รายละเอียด Datasheet ของ IC ที่ใช้ในวงจร
 - **[`Kicad-Setup.md`](Documents/Kicad-Setup.md)** - คู่มือการตั้งค่าและใช้งาน KiCad
+- **[`NE555_Clock.md`](Documents/NE555_Clock.md)** - การคำนวณและออกแบบวงจร NE555
 
 ### 🔌 Circuit Files (โฟลเดอร์ Circuit/)
 - **[`Digital_Clock_6_Digits.kicad_pro`](Circuit/Digital_Clock_6_Digits.kicad_pro)** - ไฟล์โปรเจค KiCad หลัก
@@ -109,11 +110,6 @@
 - **[`Library.kicad_sym`](Circuit/Library.kicad_sym)** - ไลบรารีสัญลักษณ์ที่ใช้ในโปรเจค
 - **[`Digital_Clock_6_Digits.csv`](Circuit/Digital_Clock_6_Digits.csv)** - Bill of Materials จาก KiCad
 
-### 📚 โฟลเดอร์ Progression/
-- **[`NE555_Clock.md`](Progression/NE555_Clock.md)** - การคำนวณและออกแบบวงจร NE555
-
-### 🖼️ โฟลเดอร์ Images/
-- รูปภาพวงจรที่ประกอบเสร็จแล้ว
 
 ---
 
