@@ -99,7 +99,7 @@
 ### 📄 Markdown Documents
 - **`Readme.md`** - เอกสารหลักของโปรเจค อธิบายภาพรวมและวิธีการทำงาน
 - **[`Bill-of-materials.md`](Documents/Bill-of-materials.md)** - รายการอุปกรณ์ที่ใช้ในโปรเจค
-- **[`Construction-Process.md`](Documents/Construction-Process.md)** - ขั้นตอนการประกอบวงจรตามลำดับ
+- **[`Construction-Process.md`](Construction-Process-Display.md)** - ขั้นตอนการประกอบวงจรตามลำดับ
 - **[`Datasheets.md`](Documents/Datasheets.md)** - รายละเอียด Datasheet ของ IC ที่ใช้ในวงจร
 - **[`Kicad-Setup.md`](Documents/Kicad-Setup.md)** - คู่มือการตั้งค่าและใช้งาน KiCad
 - **[`NE555_Clock.md`](NE555-Clock-Generator.md)** - การคำนวณและออกแบบวงจร NE555
@@ -416,7 +416,7 @@ flowchart TD
 
 ## 📚 เอกสารอ้างอิง
 - [Bill of Materials](Bill-of-materials.md) - รายการอุปกรณ์
-- [Construction Process](Construction-Process.md) - ขั้นตอนการประกอบ
+- [Construction Process](Construction-Process-Display.md) - ขั้นตอนการประกอบ
 - [Datasheets](Datasheets.md) - ข้อมูล IC ที่ใช้
 - [NE555 Clock Calculation](Progression/NE555_Clock.md) - การคำนวณวงจร Clock
 
