@@ -93,24 +93,24 @@
 
 ### 📄 Markdown Documents
 - **`Readme.md`** - เอกสารหลักของโปรเจค อธิบายภาพรวมและวิธีการทำงาน
-- **`Bill-of-materials.md`** - รายการอุปกรณ์ที่ใช้ในโปรเจค
-- **`Construction-Process.md`** - ขั้นตอนการประกอบวงจรตามลำดับ
-- **`Datasheet.md`** - รายละเอียด Datasheet ของ IC ที่ใช้ในวงจร
-- **`Kicad-Setup.md`** - คู่มือการตั้งค่าและใช้งาน KiCad
+- **[`Bill-of-materials.md`](Documents/Bill-of-materials.md)** - รายการอุปกรณ์ที่ใช้ในโปรเจค
+- **[`Construction-Process.md`](Documents/Construction-Process.md)** - ขั้นตอนการประกอบวงจรตามลำดับ
+- **[`Datasheets.md`](Documents/Datasheets.md)** - รายละเอียด Datasheet ของ IC ที่ใช้ในวงจร
+- **[`Kicad-Setup.md`](Documents/Kicad-Setup.md)** - คู่มือการตั้งค่าและใช้งาน KiCad
 
 ### 🔌 Circuit Files (โฟลเดอร์ Circuit/)
-- **`Digital_Clock_6_Digits.kicad_pro`** - ไฟล์โปรเจค KiCad หลัก
-- **`Digital_Clock_6_Digits.kicad_sch`** - Schematic หลักที่เชื่อมโยงส่วนย่อย
-- **`Controller.kicad_sch`** - วงจร NE555 Clock Generator
-- **`Counter.kicad_sch`** - วงจร Counter ทุกหลัก (วินาที นาที ชั่วโมง)
-- **`7Seg_6Digits.kicad_sch`** - วงจร Decoder และ Display 6 หลัก
-- **`Seven_Segment_View.kicad_sch`** - มุมมองการเชื่อมต่อ 7-Segment
-- **`Digital_Clock_6_Digits.kicad_pcb`** - ไฟล์ออกแบบ PCB
-- **`Library.kicad_sym`** - ไลบรารีสัญลักษณ์ที่ใช้ในโปรเจค
-- **`Digital_Clock_6_Digits.csv`** - Bill of Materials จาก KiCad
+- **[`Digital_Clock_6_Digits.kicad_pro`](Circuit/Digital_Clock_6_Digits.kicad_pro)** - ไฟล์โปรเจค KiCad หลัก
+- **[`Digital_Clock_6_Digits.kicad_sch`](Circuit/Digital_Clock_6_Digits.kicad_sch)** - Schematic หลักที่เชื่อมโยงส่วนย่อย
+- **[`Controller.kicad_sch`](Circuit/Controller.kicad_sch)** - วงจร NE555 Clock Generator
+- **[`Counter.kicad_sch`](Circuit/Counter.kicad_sch)** - วงจร Counter ทุกหลัก (วินาที นาที ชั่วโมง)
+- **[`7Seg_6Digits.kicad_sch`](Circuit/7Seg_6Digits.kicad_sch)** - วงจร Decoder และ Display 6 หลัก
+- **[`Seven_Segment_View.kicad_sch`](Circuit/Seven_Segment_View.kicad_sch)** - มุมมองการเชื่อมต่อ 7-Segment
+- **[`Digital_Clock_6_Digits.kicad_pcb`](Circuit/Digital_Clock_6_Digits.kicad_pcb)** - ไฟล์ออกแบบ PCB
+- **[`Library.kicad_sym`](Circuit/Library.kicad_sym)** - ไลบรารีสัญลักษณ์ที่ใช้ในโปรเจค
+- **[`Digital_Clock_6_Digits.csv`](Circuit/Digital_Clock_6_Digits.csv)** - Bill of Materials จาก KiCad
 
 ### 📚 โฟลเดอร์ Progression/
-- **`NE555_Clock.md`** - การคำนวณและออกแบบวงจร NE555
+- **[`NE555_Clock.md`](Progression/NE555_Clock.md)** - การคำนวณและออกแบบวงจร NE555
 
 ### 🖼️ โฟลเดอร์ Images/
 - รูปภาพวงจรที่ประกอบเสร็จแล้ว
@@ -416,7 +416,7 @@ flowchart TD
 ## 📚 เอกสารอ้างอิง
 - [Bill of Materials](Bill-of-materials.md) - รายการอุปกรณ์
 - [Construction Process](Construction-Process.md) - ขั้นตอนการประกอบ
-- [Datasheet](Datasheet.md) - ข้อมูล IC ที่ใช้
+- [Datasheets](Datasheets.md) - ข้อมูล IC ที่ใช้
 - [NE555 Clock Calculation](Progression/NE555_Clock.md) - การคำนวณวงจร Clock
 
 ---
