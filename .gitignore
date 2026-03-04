@@ -1,7 +1,6 @@
 *.lck
 /.vscode
 \#auto_saved_files\#
-*.kicad_sch
 fp-info-cache
 /Circuit/Digital_Clock_6_Digits-backups
 /.obsidian
